@@ -17,15 +17,109 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://bda.co.th/')
 
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_2'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_3'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_4'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_5'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_6'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_7'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_8'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_9'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/img'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-close'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/img_1'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/div_Photo Gallery 2_vnbx-button vnbx-close'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/img_2'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/div_Photo Gallery 3_vnbx-button vnbx-next'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/div_Photo Gallery 4_vnbx-button vnbx-next'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/div_Photo Gallery 5_vnbx-button vnbx-next'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/div_Photo Gallery 6_vnbx-button vnbx-next'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/div_Photo Gallery 7_vnbx-button vnbx-close'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/i_adminbdacoth_fab fa-facebook fa-2x'))
+
 WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/a_Portfolio'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/div__item-img-overlay'))
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_2'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_3'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_4'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_5'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_6'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_7'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_8'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_9'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_10'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_11'))
+WebUI.delay(1)
 
-WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/a_Clients'))
 
@@ -72,8 +166,12 @@ WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/a_Contact'))
 WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/a_Careers'))
+
 WebUI.delay(3)
+
 WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/a_Home_2'))
+
 WebUI.delay(3)
+
 WebUI.closeBrowser()
 
