@@ -93,33 +93,51 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/i_adminbdacoth_fab fa-facebook fa-2x'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/a_Portfolio'))
 
 WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_2'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_3'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_4'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_5'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_6'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_7'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_8'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_9'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_10'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_11'))
+
 WebUI.delay(1)
 
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_3'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_4'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_5'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_6'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_7'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_8'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_9'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_10'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/button_11'))
+
+WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/Page_BIG DATA AGENCY/a_Clients'))
 
